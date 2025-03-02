@@ -1,16 +1,22 @@
-## Hi there 👋
+# Reyodin Immanuel.G
 
-<!--
-**Reyodin-06/Reyodin-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 About Me
+Hi, I'm Reyodin Immanuel.G, an aspiring **Software Developer** . Passionate about crafting efficient solutions and exploring the depths of software development. Currently, I'm pursuing my Bachelor's in Engineering and continuously learning new technologies to enhance my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Languages:** C++, Python, JavaScript, HTML, CSS
+- **Front-End:** BootStrap CSS
+- **Databases:** SQL
+- **Tools & Platforms:** Git, GitHub.
+
+## 🎯 What I'm Currently Learning
+- Advanced JavaScript 
+- Frontend development with React.js
+- Cloud computing fundamentals
+
+## 📫 How to Reach Me
+- **Email:** [reyodinofficial@gmail.com](mailto:reyodinofficial@gmail.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/reyodin/)
+- **GitHub:** [Reyodin-06](https://github.com/Reyodin-06)
+
