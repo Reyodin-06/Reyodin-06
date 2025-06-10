@@ -6,7 +6,7 @@ Hi, I'm Reyodin Immanuel.G, an aspiring **Software Developer** . Passionate abou
 
 ## 🚀 Skills & Technologies
 - **Languages:** C++, Python, JavaScript, HTML, CSS
-- **Front-End:** BootStrap CSS
+- **Front-End:** BootStrap CSS, React.Js
 - **Databases:** SQL
 - **Tools & Platforms:** Git, GitHub.
 
